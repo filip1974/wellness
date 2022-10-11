@@ -1,0 +1,27 @@
+.App{
+
+position: absolute;
+width: 800px;
+height: 600px;
+margin: 0 auto;
+right: 25%;
+top: 10%;
+background-color: #D9D9D9;
+border-radius: 10px;
+box-shadow:1px 1px 8px black;
+}
+.img{ 
+background-image: url("images/deportes.jpg");
+margin:0px;
+position: absolute;
+height: 600px;
+width: 430px;
+border-start-start-radius: 10px;
+border-end-start-radius: 10px;
+}
+body
+{
+
+background-color: white;
+
+}
